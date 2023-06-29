@@ -4,12 +4,11 @@
 <title>Vincent Au</title>
 </head>
 <body>
-<h1>Vincent Au</h1>
     
-  
-
-    </body>
-  <button type="button">Home</button>
+<h1>Vincent Au</h1>
+<p>About Me</p>
+    
+</body>
 </html>
 
 
