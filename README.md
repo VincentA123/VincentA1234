@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
+<h1>Vincent Au</h1>
 <head>
-<title>Vincent Au</title>
 </head>
 <body>
 
-<h1>Vincent Au</h1>
+
 <h2>About Me</h2>
 <p>
 Hi, I'm Vincent. I'm currently attending as a rising junior at Balboa High School.
